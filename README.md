@@ -67,7 +67,7 @@
 ## Github Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?preview.php?user=offical-waqas-khurshid&theme=gruvbox" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=offical-waqas-khurshid&theme=gruvbox" />
 </p>
 
 <br/>  
