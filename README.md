@@ -36,6 +36,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offical-waqas-khurshid&theme=gruvbox"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=offical-waqas-khurshid&theme=gruvbox"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offical-waqas-khurshid&theme=gruvbox&utcOffset=8"/>
+</p>
 <br/> 
 
 ## Languages and Tools  
